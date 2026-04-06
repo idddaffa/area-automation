@@ -39,3 +39,9 @@ The tool expects a Tab-separated `.txt` file with the following 8 columns:
 ## 🛠️ Requirements
 * ArcGIS Pro (Tested on 3.x)
 * Python 3 (ArcGIS Default Environment with `arcpy` module)
+
+## 📸 Visual Demo
+
+![Area Automation Demo](link-ke-file-gif-anda.gif)
+
+*Watch the tool automatically process tabular coordinates and generate perfect donut polygons in seconds.*
