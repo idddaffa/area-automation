@@ -16,10 +16,10 @@ A custom Python tool built with **ArcPy** to automate the creation of Point and 
 
 The tool expects a Tab-separated `.txt` file with the following 8 columns:
 
-| WILAYAH | KATEGORI | JENIS_PENYISIHAN | NAMA_AREA | BATAS_WILAYAH | TITIK | LONGITUDE | LATITUDE |
+| REGION | CATEGORY | EXCLUSION_TYPE | AREA_NAME | BOUNDARY_TYPE | POINT | LONGITUDE | LATITUDE |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| SALAWATI | RETAIN | PSWK PASAL 3.1 | Area I | OUTER | A | 130.833... | -1.200... |
-| SALAWATI | RETAIN | PSWK PASAL 3.1 | Area I | INNER | A-In | 130.910... | -1.220... |
+| SALAZAR | RETAIN | PSWK ARTICLE 3.1 | Area I | OUTER | A | 130.833... | -1.200... |
+| SALAZAR | RETAIN | PSWK ARTICLE 3.1 | Area I | INNER | A-In | 130.910... | -1.220... |
 
 *(Tip: Copy data directly from your spreadsheet software to an empty Notepad file to preserve the pure Tab delimiters).*
 
