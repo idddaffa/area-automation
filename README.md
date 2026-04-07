@@ -42,7 +42,6 @@ The tool expects a Tab-separated `.txt` file with the following 8 columns:
 
 ## 📸 Visual Demo
 
-![MyProject552026-04-0615-07-59-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e727b0b8-0f93-4ba5-8ab2-ca1221f07fba)
-
+![Coordinates to Area Automation](https://github.com/user-attachments/assets/11ba2d0a-2524-4276-90e6-a7f0773949a3)
 
 *Watch the tool automatically process tabular coordinates and generate perfect donut polygons in seconds.*
